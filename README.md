@@ -1,3 +1,5 @@
+NA RESET TANAN SER
+
 # Computer Repair Shop (Laravel)
 
 A database-driven repair shop management system built with Laravel, Blade, and Bootstrap 5.
